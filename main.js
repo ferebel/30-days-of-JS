@@ -22,20 +22,28 @@ const countries = ['Finland', 'Denmark', 'Sweden', 'Norway', 'Iceland'] //array 
 
 //print the array and it's length
 
-console.log('Numbers:', numbers)
-console.log('Number of numbers:', numbers.length)
+// console.log('Numbers:', numbers)
+// console.log('Number of numbers:', numbers.length)
 
-console.log('Fruits:', fruits)
-console.log('Number of Fruits:', fruits.length)
+// console.log('Fruits:', fruits)
+// console.log('Number of Fruits:', fruits.length)
 
-console.log('Vegetables:', vegetables)
-console.log('Number of vegetables:', vegetables.length)
+// console.log('Vegetables:', vegetables)
+// console.log('Number of vegetables:', vegetables.length)
 
-console.log('Animal products:', animalProducts)
-console.log('Number of animal products:', animalProducts.length)
+// console.log('Animal products:', animalProducts)
+// console.log('Number of animal products:', animalProducts.length)
 
-console.log('Web technologies:', webTechs)
-console.log('Number of Web Technologies:', webTechs.length)
+// console.log('Web technologies:', webTechs)
+// console.log('Number of Web Technologies:', webTechs.length)
 
-console.log('Countries:', countries)
-console.log('Number of Countries:', countries.length)
+// console.log('Countries:', countries)
+// console.log('Number of Countries:', countries.length)
+
+// let js = 'JavaScript'
+// const charsInJavaScript = js.split('')
+
+// console.log(charsInJavaScript)  
+
+// //["J", "a", "v", "a", "S", "c", "r", "i", "p", "t"]
+
